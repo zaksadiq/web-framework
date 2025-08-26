@@ -10,6 +10,10 @@ In his seminal work, Richard Hamming emphasizes the importance of style in scien
 - **Creativity**: Innovation arises from the ability to think differently and challenge established norms.
 - **Systems Thinking**: Understanding the interconnections within systems leads to more effective problem-solving.
 
+### Subheading Example
+
+Content goes here.
+
 ## Reflection
 
 Hamming's insights encourage us to approach problems with a mindset that values creativity, depth, and interconnectedness.

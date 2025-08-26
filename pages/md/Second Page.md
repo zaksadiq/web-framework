@@ -13,3 +13,11 @@ Richard Hamming's lectures at the Naval Postgraduate School focused on cultivati
 ## Conclusion
 
 Embracing these principles fosters an environment where learning becomes a dynamic and continuous journey.
+
+### Subheading Example
+
+Content goes here.
+
+### Subheading Example
+
+Content goes here.

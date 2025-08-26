@@ -12,6 +12,10 @@ h1, h2, h3 {
     font-family: "Gowun Dodum", ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
     margin: 35px 0 0 0;
 }
+h1 {
+    border-bottom: 1px solid #555;
+    /* border-radius: 5px; */
+}
 .quote {
     border-left: 4px solid #555;
     display: block;

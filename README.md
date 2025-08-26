@@ -1,5 +1,5 @@
 # Web Framework
-**Markdown-Generated Static Homepage with Possibility of Blog/Journal**
+**Markdown-Generated Static Homepage with Possibility of Blog**
 
 Provides a simple but robust template for a static webpage, for personal pursuits or as a personal homepage. Can be adapted to other uses.
 ## Getting Started
@@ -14,10 +14,11 @@ Provides a simple but robust template for a static webpage, for personal pursuit
 - Tasteful design.
 - No frills but nice.
 - Prime ground for adaptation / a foundation to get started quickly.
-- Could be adapted well for a blog within the personal site.
+- Could be adapted well for a blog/journal within the personal site.
 ## Notes 
 1. Markdown files must start with an h1 tag. 
-2. The pages are not designed with SEO in mind - this would not be hard to adapt to.
+2. The pages are not designed with SEO in mind - this would not be hard to adapt for.
 ## Future Work / Extension
 1. Automatically use markdown file name if no h1 tag is provided.
 2. Adapt to use semantic tags, and improve SEO.
+Pull-requests welcome.

@@ -6,7 +6,7 @@ Provides a simple but robust template for a static webpage, for personal pursuit
 1. Fork/Clone this repository,
 2. Create a page in `/pages/md/` as a `.md` file, ensuring it has an h1 tag (main heading),
 3. Run the generation script in `/pages/` following the `how to generate the pages.txt` (run `ruby gen\ page\ html.rb` from `/pages`),
-4. Modify `index.html` for your use, changing the top-level links and content, and replacing templated regions.
+4. Modify `index.html` for your use, changing the top-level links and content and replacing templated regions.
 5. All the same adjust `/pages/template.html`, replacing templated regions.
 ## Features
 - Markdown to HTML pages with generation script.
@@ -22,5 +22,3 @@ Provides a simple but robust template for a static webpage, for personal pursuit
 ## Future Work / Extension
 1. Automatically use markdown file name if no h1 tag is provided.
 2. Adapt to use semantic tags, and improve SEO.
-
-Pull-requests welcome.

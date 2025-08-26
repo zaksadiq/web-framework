@@ -21,4 +21,5 @@ Provides a simple but robust template for a static webpage, for personal pursuit
 ## Future Work / Extension
 1. Automatically use markdown file name if no h1 tag is provided.
 2. Adapt to use semantic tags, and improve SEO.
+
 Pull-requests welcome.

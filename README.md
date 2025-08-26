@@ -1,5 +1,5 @@
 # Web Framework
-**Markdown-Generated Static Homepage with Possibility of Blog**
+**Markdown-Generated Static Homepage with Option of Blog/Journal**
 
 Provides a simple but robust template for a static webpage, for personal pursuits or as a personal homepage. Can be adapted to other uses.
 ## Getting Started

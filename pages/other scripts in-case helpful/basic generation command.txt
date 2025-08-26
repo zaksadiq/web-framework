@@ -1,0 +1,1 @@
+pandoc input.md --template=template.html -s -o output.html

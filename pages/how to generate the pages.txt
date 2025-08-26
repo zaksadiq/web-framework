@@ -1,0 +1,3 @@
+Type the following into your terminal: 
+ruby gen\ page\ html.rb
+You will require pandoc (brew install pandoc on mac) and ruby.

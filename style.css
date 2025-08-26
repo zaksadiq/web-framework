@@ -1,0 +1,66 @@
+body {
+    font-family: "Gowun Dodum", sans-serif, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 17px;
+    height: 100vh;
+    line-height: 2;
+    margin: 100px auto;
+    max-width: 600px;
+    padding: 30px;
+    -webkit-font-smoothing: auto;
+}
+h1, h2, h3 {
+    font-family: "Gowun Dodum", ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+    margin: 35px 0 0 0;
+}
+.quote {
+    border-left: 4px solid #555;
+    display: block;
+    margin: 15px auto;
+    padding: 5px 5px 5px 15px;
+}
+p {
+    margin: 10px 0 15px 0;
+}
+/* a {
+    display: block;
+} */
+a {
+    border-bottom: 1px solid rgba(55, 53, 47, 0.16);
+    border-radius: 3px;
+    color: #555;
+    display: block;
+    font-weight: 500;
+    margin: 3px;
+    padding: 3px 3px 0 3px;
+    text-decoration: none;
+}
+a:hover, a:focus {
+    background-color: rgba(55, 53, 47, 0.06);
+}
+.toc {
+    margin-bottom: 20px;
+}
+.toc_h2 {
+    padding-left: 8px;
+}
+.toc_h3 {
+    padding-left: 24px;
+}
+.disclaimer {
+    font-family: baskerville, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+    margin-top: 50px;
+}
+.disclaimer > span {
+    display: block;
+}
+.final-image {
+    border-radius: 67px;
+    display: block;
+    height: auto;
+    margin: 100px auto;
+    width: 200px;
+}
+.spacer {
+    height: 40px;
+    width: auto;
+}

@@ -60,6 +60,7 @@ a:hover, a:focus {
 .final-image {
     border-radius: 67px;
     display: block;
+    filter: brightness(150%);
     height: auto;
     margin: 100px auto;
     width: 200px;

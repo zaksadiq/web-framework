@@ -57,13 +57,18 @@ a:hover, a:focus {
 .disclaimer > span {
     display: block;
 }
-.final-image {
-    border-radius: 67px;
+.logo {
+    border-radius: 70px;
     display: block;
-    filter: brightness(150%);
+    filter: brightness(103.5%);
     height: auto;
-    margin: 100px auto;
     width: 200px;
+}
+.initial-logo {
+    margin: 5px auto;
+}
+.final-logo {
+    margin: 100px auto;
 }
 .spacer {
     height: 40px;
